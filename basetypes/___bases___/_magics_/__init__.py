@@ -1,0 +1,1 @@
+from ___bases___._magics_.vars import DictAttr, Vars
